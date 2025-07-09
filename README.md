@@ -33,35 +33,6 @@
 
 ---
 
-## 📊 herramientas de análisis y modelado
-
-- **sql** (consultas avanzadas, joins, subconsultas)  
-- **power bi** (visualización)  
-- **excel avanzado** (tablas dinámicas, macros básicas, análisis de datos)  
-- **uml y rup** (análisis y diseño de sistemas)  
-- **bpmn** (modelado de procesos de negocio)  
-- **modelado de bases de datos** (relacionales y no relacionales)  
-- **gestión de proyectos ti** (scrum y pmi)  
-- **gestión de servicios ti** (itil)  
-
----
-
-## 🎓 formación complementaria
-
-📄 certificado en **power bi aplicado al análisis de datos** – universidad nacional de ingeniería  
-📄 certificado en **excel aplicado al análisis de datos** – universidad nacional de ingeniería  
-📄 formación técnica en **sql**, **mongodb**, **java**, **ms sql server** – cibertec  
-
----
-
-## 🧩 conocimientos adicionales
-
-- **ciberseguridad** (básico: seguridad web y móvil)  
-- **servicios web** en .net y java (soap/rest)  
-- **desarrollo móvil** (android e ios – nivel intermedio)  
-
----
-
 ## 🌐 idiomas
 
 ![Inglés](https://img.shields.io/badge/Inglés-Básico-lightgrey?logo=googletranslate)
