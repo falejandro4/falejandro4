@@ -9,7 +9,7 @@
 
 ## hola! 👋 soy franco alejandro bustamante
 
-📌 egresado técnico de **computación e informática – cibertec**  
+📌 egresado técnico de **computación e informática – cibertec**  [![linkedin](https://img.shields.io/badge/linkedin-perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franco-alejandro4/)
 🔍 enfocado en **análisis de datos**, **gestión de bases de datos** y tecnologías complementarias  
 🌱 actualmente reforzando mis habilidades en:
 
@@ -43,5 +43,3 @@
 
 📩 si deseas saber más sobre mí, no dudes en escribirme  
 🧠 siempre con disposición para seguir aprendiendo y asumir nuevos retos  
-
-[![linkedin](https://img.shields.io/badge/linkedin-perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franco-alejandro4/)
