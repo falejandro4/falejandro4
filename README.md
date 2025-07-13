@@ -9,16 +9,7 @@
 
 ## hola! 👋 soy franco alejandro bustamante
 
-📌 egresado técnico de **computación e informática – cibertec**  
-🔍 enfocado en **análisis de datos**, **gestión de bases de datos** y tecnologías complementarias  
-🌱 actualmente reforzando mis habilidades en:
 
-![SQL](https://img.shields.io/badge/SQL-Avanzado-blue?style=flat&logo=mysql)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Básico-yellow?style=flat&logo=powerbi)  
-![Excel](https://img.shields.io/badge/Excel-Intermedio-green?style=flat&logo=microsoft-excel)  
-![Python](https://img.shields.io/badge/Python-Básico-informational?style=flat&logo=python)
-
----
 
 ## 🧰 herramientas y tecnologías que manejo
 
