@@ -2,16 +2,16 @@
   <img src="https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true" alt="banner descarga cv" width="100%">
 </a>
 
-<!-- imagen animada a la derecha -->
+
 <p>
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animación perfil" width="200">
 </p>
 
-## hola! 👋 soy franco alejandro bustamante
+## hola! 👋 
 
 
 
-## 🧰 herramientas y tecnologías que manejo
+## 🧰 herramientas 
 
 ![MySQL](https://img.shields.io/badge/MySQL-Original-blue?logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Avanzado-darkred?logo=microsoft-sql-server)
