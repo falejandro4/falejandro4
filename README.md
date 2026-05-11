@@ -7,10 +7,6 @@
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animación perfil" width="200">
 </p>
 
-## hola! 👋 
-
-
-
 ## 🧰 herramientas 
 
 ![MySQL](https://img.shields.io/badge/MySQL-Original-blue?logo=mysql)
@@ -23,16 +19,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Básico-black?logo=github)
 
 ---
-
 ## 🌐 idiomas
-
 ![Inglés](https://img.shields.io/badge/Inglés-Básico-lightgrey?logo=googletranslate)
-
 ---
-
-## 👨‍💻 
-
-📩 si deseas saber más sobre mí, no dudes en escribirme  
-🧠 siempre con disposición para seguir aprendiendo y asumir nuevos retos  
 
 [![linkedin](https://img.shields.io/badge/linkedin-perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franco-alejandro4/)
