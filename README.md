@@ -17,10 +17,5 @@
 ![.NET](https://img.shields.io/badge/.NET-Intermedio-blueviolet?logo=dotnet)
 ![HTML5 & CSS3](https://img.shields.io/badge/HTML5%20%26%20CSS3-Avanzado-orange?logo=html5)
 ![GitHub](https://img.shields.io/badge/GitHub-Básico-black?logo=github)
-
 ---
-## 🌐 idiomas
-![Inglés](https://img.shields.io/badge/Inglés-Básico-lightgrey?logo=googletranslate)
----
-
 [![linkedin](https://img.shields.io/badge/linkedin-perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franco-alejandro4/)
